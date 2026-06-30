@@ -1,1 +1,6 @@
 print("hello")
+print("Infoemation and Network Engineering")
+print("Tanapoom You will be great")
+print("I am Hungry")
+print('Hek me "Who got the book?"')
+print("I'M good and \"I will do my best\"")

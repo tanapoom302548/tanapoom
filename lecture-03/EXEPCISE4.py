@@ -1,0 +1,13 @@
+print("Please select operatiom -")
+print("1. Add")
+print("2. Subtract")
+print("3. Multiply")
+print("4. Divide")
+choice = int(input("Select operations from 1, 2, 3, 4,: "))
+num1 = int(input("Enter first number :"))
+num2 = int(input("Enter first number :"))
+
+if choice ==1:
+    print(num1, "+", num2, "=", num1+num2)
+elif choice == 2:
+    print
